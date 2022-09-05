@@ -1,0 +1,9 @@
+{
+  "name": "generator-pystack",
+  "version": "1.0.0",
+  "description": "python generator",
+  "main": "index.js",
+  "repository": "https://github.com/adilblanco/generator-pystack",
+  "author": "adil@labiad",
+  "license": "MIT"
+}
