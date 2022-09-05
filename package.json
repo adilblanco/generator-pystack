@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/adilblanco/generator-pystack",
   "author": "adil@labiad",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
 }
